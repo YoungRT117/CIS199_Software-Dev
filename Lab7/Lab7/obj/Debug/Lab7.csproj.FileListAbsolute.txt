@@ -1,0 +1,13 @@
+C:\Users\Roger Jr\source\repos\Lab7\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\Roger Jr\source\repos\Lab7\Lab7\bin\Debug\Lab7.exe
+C:\Users\Roger Jr\source\repos\Lab7\Lab7\bin\Debug\Lab7.pdb
+C:\Users\Roger Jr\source\repos\Lab7\Lab7\obj\Debug\Lab7.csprojAssemblyReference.cache
+C:\Users\Roger Jr\source\repos\Lab7\Lab7\obj\Debug\Lab7.exe
+C:\Users\Roger Jr\source\repos\Lab7\Lab7\obj\Debug\Lab7.pdb
+H:\CIS Classes & Portfolio\CIS 199\Lab7\Lab7\bin\Debug\Lab7.exe.config
+H:\CIS Classes & Portfolio\CIS 199\Lab7\Lab7\bin\Debug\Lab7.exe
+H:\CIS Classes & Portfolio\CIS 199\Lab7\Lab7\bin\Debug\Lab7.pdb
+H:\CIS Classes & Portfolio\CIS 199\Lab7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+H:\CIS Classes & Portfolio\CIS 199\Lab7\Lab7\obj\Debug\Lab7.exe
+H:\CIS Classes & Portfolio\CIS 199\Lab7\Lab7\obj\Debug\Lab7.pdb
+H:\CIS Classes & Portfolio\CIS 199\Lab7\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
