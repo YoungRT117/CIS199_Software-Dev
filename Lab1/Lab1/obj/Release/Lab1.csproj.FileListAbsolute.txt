@@ -1,0 +1,5 @@
+C:\Users\Roger Jr\Desktop\CIS\CIS 199\Lab1\Lab1\bin\Release\Lab1.exe.config
+C:\Users\Roger Jr\Desktop\CIS\CIS 199\Lab1\Lab1\bin\Release\Lab1.exe
+C:\Users\Roger Jr\Desktop\CIS\CIS 199\Lab1\Lab1\bin\Release\Lab1.pdb
+C:\Users\Roger Jr\Desktop\CIS\CIS 199\Lab1\Lab1\obj\Release\Lab1.exe
+C:\Users\Roger Jr\Desktop\CIS\CIS 199\Lab1\Lab1\obj\Release\Lab1.pdb
