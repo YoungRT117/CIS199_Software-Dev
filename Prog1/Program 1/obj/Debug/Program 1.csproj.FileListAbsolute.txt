@@ -1,0 +1,18 @@
+C:\Users\Roger Jr\source\repos\Program 1\Program 1\bin\Debug\Program 1.exe.config
+C:\Users\Roger Jr\source\repos\Program 1\Program 1\bin\Debug\Program 1.exe
+C:\Users\Roger Jr\source\repos\Program 1\Program 1\bin\Debug\Program 1.pdb
+C:\Users\Roger Jr\source\repos\Program 1\Program 1\obj\Debug\Program 1.csprojAssemblyReference.cache
+C:\Users\Roger Jr\source\repos\Program 1\Program 1\obj\Debug\Program_1.Program1.resources
+C:\Users\Roger Jr\source\repos\Program 1\Program 1\obj\Debug\Program_1.Properties.Resources.resources
+C:\Users\Roger Jr\source\repos\Program 1\Program 1\obj\Debug\Program 1.csproj.GenerateResource.cache
+C:\Users\Roger Jr\source\repos\Program 1\Program 1\obj\Debug\Program 1.exe
+C:\Users\Roger Jr\source\repos\Program 1\Program 1\obj\Debug\Program 1.pdb
+H:\CIS Classes & Portfolio\CIS 199\Prog1\Program 1\bin\Debug\Program 1.exe.config
+H:\CIS Classes & Portfolio\CIS 199\Prog1\Program 1\bin\Debug\Program 1.exe
+H:\CIS Classes & Portfolio\CIS 199\Prog1\Program 1\bin\Debug\Program 1.pdb
+H:\CIS Classes & Portfolio\CIS 199\Prog1\Program 1\obj\Debug\Program_1.Program1.resources
+H:\CIS Classes & Portfolio\CIS 199\Prog1\Program 1\obj\Debug\Program_1.Properties.Resources.resources
+H:\CIS Classes & Portfolio\CIS 199\Prog1\Program 1\obj\Debug\Program 1.csproj.GenerateResource.cache
+H:\CIS Classes & Portfolio\CIS 199\Prog1\Program 1\obj\Debug\Program 1.csproj.CoreCompileInputs.cache
+H:\CIS Classes & Portfolio\CIS 199\Prog1\Program 1\obj\Debug\Program 1.exe
+H:\CIS Classes & Portfolio\CIS 199\Prog1\Program 1\obj\Debug\Program 1.pdb
