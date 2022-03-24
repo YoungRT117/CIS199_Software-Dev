@@ -1,0 +1,27 @@
+C:\Users\Roger Jr\source\repos\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Roger Jr\source\repos\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\Roger Jr\source\repos\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Roger Jr\source\repos\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\Roger Jr\source\repos\Lab3\Lab3\obj\Debug\Lab3.Lab3.resources
+C:\Users\Roger Jr\source\repos\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\Roger Jr\source\repos\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\Roger Jr\source\repos\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\Roger Jr\source\repos\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Roger Jr\Desktop\CIS\CIS 199\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Roger Jr\Desktop\CIS\CIS 199\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\Roger Jr\Desktop\CIS\CIS 199\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Roger Jr\Desktop\CIS\CIS 199\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\Roger Jr\Desktop\CIS\CIS 199\Lab3\Lab3\obj\Debug\Lab3.Lab3.resources
+C:\Users\Roger Jr\Desktop\CIS\CIS 199\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\Roger Jr\Desktop\CIS\CIS 199\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\Roger Jr\Desktop\CIS\CIS 199\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\Roger Jr\Desktop\CIS\CIS 199\Lab3\Lab3\obj\Debug\Lab3.pdb
+H:\CIS Classes & Portfolio\CIS 199\Lab3\Lab3\bin\Debug\Lab3.exe.config
+H:\CIS Classes & Portfolio\CIS 199\Lab3\Lab3\bin\Debug\Lab3.exe
+H:\CIS Classes & Portfolio\CIS 199\Lab3\Lab3\bin\Debug\Lab3.pdb
+H:\CIS Classes & Portfolio\CIS 199\Lab3\Lab3\obj\Debug\Lab3.Lab3.resources
+H:\CIS Classes & Portfolio\CIS 199\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+H:\CIS Classes & Portfolio\CIS 199\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+H:\CIS Classes & Portfolio\CIS 199\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+H:\CIS Classes & Portfolio\CIS 199\Lab3\Lab3\obj\Debug\Lab3.exe
+H:\CIS Classes & Portfolio\CIS 199\Lab3\Lab3\obj\Debug\Lab3.pdb
