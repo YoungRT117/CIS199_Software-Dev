@@ -1,0 +1,28 @@
+C:\Users\Roger Jr\source\repos\Lab 2\Lab 2\bin\Debug\Lab 2.exe.config
+C:\Users\Roger Jr\source\repos\Lab 2\Lab 2\bin\Debug\Lab 2.exe
+C:\Users\Roger Jr\source\repos\Lab 2\Lab 2\bin\Debug\Lab 2.pdb
+C:\Users\Roger Jr\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.csprojAssemblyReference.cache
+C:\Users\Roger Jr\source\repos\Lab 2\Lab 2\obj\Debug\Lab_2.Lab2.resources
+C:\Users\Roger Jr\source\repos\Lab 2\Lab 2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\Roger Jr\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.GenerateResource.cache
+C:\Users\Roger Jr\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.exe
+C:\Users\Roger Jr\source\repos\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
+C:\Users\Roger Jr\Desktop\CIS\CIS 199\Lab 2\Lab 2\bin\Debug\Lab 2.exe.config
+C:\Users\Roger Jr\Desktop\CIS\CIS 199\Lab 2\Lab 2\bin\Debug\Lab 2.exe
+C:\Users\Roger Jr\Desktop\CIS\CIS 199\Lab 2\Lab 2\bin\Debug\Lab 2.pdb
+C:\Users\Roger Jr\Desktop\CIS\CIS 199\Lab 2\Lab 2\obj\Debug\Lab 2.csprojAssemblyReference.cache
+C:\Users\Roger Jr\Desktop\CIS\CIS 199\Lab 2\Lab 2\obj\Debug\Lab_2.Lab2.resources
+C:\Users\Roger Jr\Desktop\CIS\CIS 199\Lab 2\Lab 2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\Roger Jr\Desktop\CIS\CIS 199\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.GenerateResource.cache
+C:\Users\Roger Jr\Desktop\CIS\CIS 199\Lab 2\Lab 2\obj\Debug\Lab 2.exe
+C:\Users\Roger Jr\Desktop\CIS\CIS 199\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
+H:\CIS Classes & Portfolio\CIS 199\Lab 2\Lab 2\bin\Debug\Lab 2.exe.config
+H:\CIS Classes & Portfolio\CIS 199\Lab 2\Lab 2\bin\Debug\Lab 2.exe
+H:\CIS Classes & Portfolio\CIS 199\Lab 2\Lab 2\bin\Debug\Lab 2.pdb
+H:\CIS Classes & Portfolio\CIS 199\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.AssemblyReference.cache
+H:\CIS Classes & Portfolio\CIS 199\Lab 2\Lab 2\obj\Debug\Lab_2.Lab2.resources
+H:\CIS Classes & Portfolio\CIS 199\Lab 2\Lab 2\obj\Debug\Lab_2.Properties.Resources.resources
+H:\CIS Classes & Portfolio\CIS 199\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.GenerateResource.cache
+H:\CIS Classes & Portfolio\CIS 199\Lab 2\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+H:\CIS Classes & Portfolio\CIS 199\Lab 2\Lab 2\obj\Debug\Lab 2.exe
+H:\CIS Classes & Portfolio\CIS 199\Lab 2\Lab 2\obj\Debug\Lab 2.pdb
